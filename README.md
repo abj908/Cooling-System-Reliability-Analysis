@@ -4,4 +4,4 @@ For this project, a manager is interested in purchasing a new cooling system for
 
 ## Completion Date
 
-This project was completed on 05/2021.
+This project was completed on 03/2021.
